@@ -9,9 +9,7 @@ export default function sketch(p5 : P5) {
   }
 
   // função de desenhar
-  function draw() {
-
-  }
+  function draw() {}
 
   // atribuindo tudo ao P5
   p5.setup = setup;
