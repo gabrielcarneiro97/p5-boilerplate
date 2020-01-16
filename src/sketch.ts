@@ -9,13 +9,9 @@ export default function sketch(p5 : P5) {
   }
 
   // função de desenhar
-<<<<<<< HEAD
-  function draw() {}
-=======
   function draw() {
     p5.ellipse(0, 0, 20, 20);
   }
->>>>>>> parent of 23fa581... Revert "desenhando elipse"
 
   // atribuindo tudo ao P5
   p5.setup = setup;
